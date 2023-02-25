@@ -264,6 +264,7 @@
   background-image: url(../images/kaufman-triangle.svg);
   width: 877px;
   height: 877px;
+  background-size: contain;
 }
 
 .footer {
@@ -338,8 +339,4 @@
   color: white;
   margin: 0;
   text-decoration: none;
-}
-
-.footer__image-icon {
-  margin-right: 10px;
 }
